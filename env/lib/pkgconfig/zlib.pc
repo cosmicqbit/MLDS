@@ -1,0 +1,13 @@
+prefix=/Users/wired/Documents/ml-project/env
+exec_prefix=/Users/wired/Documents/ml-project/env
+libdir=/Users/wired/Documents/ml-project/env/lib
+sharedlibdir=/Users/wired/Documents/ml-project/env/lib
+includedir=/Users/wired/Documents/ml-project/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
