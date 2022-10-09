@@ -24,4 +24,3 @@ conda activate my-env
 conda env list
 ```
 
----
