@@ -19,7 +19,7 @@ dependencies:
   - brotlipy=0.7.0=py310h1a28f6b_1002
   - bzip2=1.0.8=h620ffc9_4
   - ca-certificates=2022.07.19=hca03da5_0
-  - certifi=2022.9.14=py310hca03da5_0
+  - certifi=2022.9.24=py310hca03da5_0
   - cffi=1.15.1=py310h22df2f2_0
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - cryptography=37.0.1=py310h834c97f_0
@@ -141,6 +141,7 @@ dependencies:
   - requests=2.28.1=py310hca03da5_0
   - scikit-learn=1.1.1=py310hc377ac9_0
   - scipy=1.7.3=py310h4af22ef_2
+  - seaborn=0.11.2=pyhd3eb1b0_0
   - send2trash=1.8.0=pyhd3eb1b0_1
   - setuptools=63.4.1=py310hca03da5_0
   - sip=6.6.2=py310hc377ac9_0
